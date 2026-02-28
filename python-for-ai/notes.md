@@ -66,4 +66,25 @@ One of python's superpower is its massive collection of packages.Instead of writ
 * Install them in your environment.
 * Manages versions and dependencies.
 
+# Variables :-
+* name = "Aditya" 
+* age = 23
 
+### Python naming convention :-
+        We use lowercase letters with the underscore between wrods. This is called the "snake_case" and its the sandard way of writing the names to the variables in the python.
+>>
+# Data Types :-
+        Q. What are data types ?
+        Ans. You cannot add the name to the age they both are different data that is why you need the data types to define the value of the different data.
+>>
+#### Python has main 4 types of data types :-
+* Numbers -> for counting and calculations.
+* Text -> for the words and messages.
+* True/False -> for decisions
+
+### Numbers :-
+Under the hood there are two types of numebrs Integers and Float
+* Int -> age = 10 , score = 1 ,
+ whole numbers without decimals.
+* Float -> price = 12.32, temprature = -4.4, pi = 3.14,
+ numbers with decimal points.
